@@ -29,5 +29,5 @@ else
 
 //Imprime o Pokémon escolhido:
 if (chosenPokemon) {
-    console.log("You've chose " + chosenPokemon + " as your first Pokemon!\nCongrats and sucess on your journey, Pokemon Master!");
+    console.log("You've chose " + chosenPokemon + " as your first Pokemon!\nCongrats and success on your journey, Pokemon Master!");
 }
